@@ -12,10 +12,10 @@
   "author": "Jason 'Toolbox' Oettinger <jason@oettinger.email>",
   "license": "MIT",
   "devDependencies": {
-    "@types/mocha": "^2.2.46",
-    "@types/node": "^7.0.52",
-    "mocha": "^3.3.0",
-    "nyc": "^11.4.1",
-    "typescript": "^2.6.2"
+    "@types/mocha": "^5.2.5",
+    "@types/node": "^10.11.7",
+    "mocha": "^5.2.0",
+    "nyc": "^13.0.1",
+    "typescript": "^3.1.3"
   }
 }
